@@ -1,4 +1,4 @@
-# Leitrua de marcadores Aruco com mini Drone Tello DJI
+# Leitura de marcadores Aruco com mini Drone Tello DJI
 
 ## Exemplo
 
