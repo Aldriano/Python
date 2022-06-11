@@ -1,0 +1,15 @@
+tem que instalar (terminal):
+
+> kivy - pip install Kivy
+> kivymd - pip install kivymd
+> opencv - pip install opencv-python e pip install opencv-contrib-python
+> aruco - pip install aruco
+> numpy - pip install numpy
+> Pillow - pip install Pillow
+> certifi - pip install certifi
+> pymongo - pip install pymongo
+> dnspython - pip install dnspython
+
+Por fim rodar o main.py:
+Geralmente com -> py main.py (no terminal)
+não sei com pycharm

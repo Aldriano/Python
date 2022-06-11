@@ -1,0 +1,2 @@
+CREATE TABLE imagem ( id INT NOT NULL PRIMARY Key , nome TEXT NOT NULL , imagem BLOB NOT NULL , biodata
+BLOB NOT NULL)

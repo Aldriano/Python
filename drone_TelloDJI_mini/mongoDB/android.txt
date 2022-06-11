@@ -1,0 +1,3 @@
+title=appX
+author=AuthorX
+orientation=portrait 
